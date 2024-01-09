@@ -1,0 +1,2 @@
+#nhập pool ví bên dưới 👇👇👇👇
+./cpuminer -a yespower -o pool -u ví.tên máy -p x -t8
